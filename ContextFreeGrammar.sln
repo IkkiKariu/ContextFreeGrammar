@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextFreeGrammar", "ContextFreeGrammar\ContextFreeGrammar.csproj", "{10923951-FF90-454D-B4CB-5BCCCA49188D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10923951-FF90-454D-B4CB-5BCCCA49188D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10923951-FF90-454D-B4CB-5BCCCA49188D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10923951-FF90-454D-B4CB-5BCCCA49188D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10923951-FF90-454D-B4CB-5BCCCA49188D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B01AD47-841F-4B9D-9094-03A5F39A70E2}
+	EndGlobalSection
+EndGlobal

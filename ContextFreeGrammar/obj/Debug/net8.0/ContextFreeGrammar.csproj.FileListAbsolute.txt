@@ -1,0 +1,14 @@
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\bin\Debug\net8.0\ContextFreeGrammar.exe
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\bin\Debug\net8.0\ContextFreeGrammar.deps.json
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\bin\Debug\net8.0\ContextFreeGrammar.runtimeconfig.json
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\bin\Debug\net8.0\ContextFreeGrammar.dll
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\bin\Debug\net8.0\ContextFreeGrammar.pdb
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\obj\Debug\net8.0\ContextFreeGrammar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\obj\Debug\net8.0\ContextFreeGrammar.AssemblyInfoInputs.cache
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\obj\Debug\net8.0\ContextFreeGrammar.AssemblyInfo.cs
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\obj\Debug\net8.0\ContextFreeGrammar.csproj.CoreCompileInputs.cache
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\obj\Debug\net8.0\ContextFreeGrammar.dll
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\obj\Debug\net8.0\refint\ContextFreeGrammar.dll
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\obj\Debug\net8.0\ContextFreeGrammar.pdb
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\obj\Debug\net8.0\ContextFreeGrammar.genruntimeconfig.cache
+C:\Projects\CS\ContextFreeGrammar\ContextFreeGrammar\obj\Debug\net8.0\ref\ContextFreeGrammar.dll
